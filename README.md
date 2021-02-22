@@ -1,8 +1,7 @@
 # Api Sentiment Project
 ## ***Shout Park Analysis.***
 ------------
-![foto](https://github.com/amorenorp/api-sentiment-project/blob/main/img/Unknown.jpg)
-
+![foto](https://github.com/amorenorp/api-sentiment-project/blob/main/img/south-park.jpg)
 
 
 ### **_Objetivo:_**
@@ -37,3 +36,6 @@ ___
 - https://matplotlib.org
 - https://www.digitalocean.com/community/tutorials/how-to-perform-sentiment-analysis-in-python-3-using-the-natural-language-toolkit-nltk
 - https://www.diegocalvo.es/analisis-de-discursos-con-wordcloud-en-python/
+
+
+![foto](https://github.com/amorenorp/api-sentiment-project/blob/main/img/mqdefault.jpg)
