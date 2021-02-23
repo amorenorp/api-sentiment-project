@@ -1,6 +1,12 @@
 from mongoConnec.mongoConnection import db, coll_character,coll_dialogue
 
 def new_episode(episode):
+
+    """
+    Añadimos un capitulo a la base de datos Dialogue.
+
+    """
+
     dic_epi = {
         "Episode": episode
     }
@@ -11,6 +17,12 @@ def new_episode(episode):
 
 
 def new_char(name, episode):
+
+    """
+    Añadimos un personaje y un episode a la coleccion Character.
+
+    """
+
     dic_new = {
         "Character":name,
         "Episode": episode
@@ -67,6 +79,11 @@ def new_char(name, episode):
 
 
 def new_dialogue(name, phrase, episode, season = "10"):
+
+    """
+    Añadimos personaje, episodio y frase.
+
+    """
 
     dic_newdialogue= {
         "Season": season,
